@@ -13,7 +13,7 @@
 *   **數據分析與效益預估**：撈出 Dashboard 數據，分析並預估開放部分功能後可能帶來的廣告營收成長。
 *   **跨團隊溝通**：與正職同事討論技術可行性、可開放的功能範圍以及預期效益。
 
-#### 四、解決方案與執行過程 (Solution & Process)
+#### 四、解決方案與執行過程 
 ![image](https://github.com/SMT0429/Data_Analysis/blob/main/Shopee/Pic/Alex%20Portfolio.png)
 
 1.  **# 探索賣家痛點 **
